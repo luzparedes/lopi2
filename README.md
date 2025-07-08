@@ -16,4 +16,4 @@
      <img src="https://edteam-media.s3.amazonaws.com/blogs/original/551c9e18-ac5b-45d1-9370-98a0dbbbf3df.png" width="400" height="300"
 </body>
 </html>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ldWCQPPwReQ?si=SsOVhalp-4qlQo3G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/ldWCQPPwReQ?si=SsOVhalp-4qlQo3G
